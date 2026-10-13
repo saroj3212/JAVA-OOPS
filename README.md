@@ -88,10 +88,6 @@ Java-and-OOPs/
 
 To build a strong foundation in Core Java and OOPs, write clean and maintainable code, and become confident in solving programming problems.
 
-## 🤝 Connect With Me
-
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 
 ---
 
