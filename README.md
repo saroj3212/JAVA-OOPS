@@ -89,6 +89,3 @@ Java-and-OOPs/
 To build a strong foundation in Core Java and OOPs, write clean and maintainable code, and become confident in solving programming problems.
 
 
----
-
-⭐ *Learning Java one concept at a time, one program at a time!*
