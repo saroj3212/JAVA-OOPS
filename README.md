@@ -1,4 +1,4 @@
-# ☕ Java & Object-Oriented Programming (OOPs)
+# ♨️ Java & Object-Oriented Programming (OOPs)
 
 Welcome to my **Java and OOPs** repository! 🚀
 
